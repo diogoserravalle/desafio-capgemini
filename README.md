@@ -1,6 +1,6 @@
 # desafio-capgemini
 
-Desafio 1 de criação da escada
+Desafio 1 de criação da escada.
 
 Scanner entrada = new Scanner(System.in);
 List<String> degraus = new ArrayList<>();
@@ -25,6 +25,7 @@ System.out.println(d);
 ______________________________________________________________________
                                                  
  Desafio 2 de criação da senha
+                      
                                                  
    public static boolean validaSenha(String senha) {
 
